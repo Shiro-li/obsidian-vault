@@ -1,3 +1,4 @@
+#javascript 
 # setInterval()  
   
 用途：  

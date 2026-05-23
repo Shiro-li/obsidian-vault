@@ -1,3 +1,4 @@
+#javascript
 # padStart()  
   
 用途：  

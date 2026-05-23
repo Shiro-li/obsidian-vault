@@ -1,3 +1,4 @@
+#react
 
 1. JXS是用來寫一段HTML的JavaScript表達式
 	通常用{ } 將程式碼包進去

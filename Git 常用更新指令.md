@@ -1,4 +1,4 @@
-# Git 常用更新指令  
+#git #github 
   
 查看目前狀態：  
 git status  
