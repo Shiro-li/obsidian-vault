@@ -1,0 +1,17 @@
+# Obsidian workspace 狀態（超常變）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 快取
+.obsidian/cache/
+
+# 一些暫存檔
+*.base
+*.tmp
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
